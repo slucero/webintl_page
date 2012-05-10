@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the WebIntl: Pages feature.
+ */
+
+include_once 'webintl_page.features.inc';
